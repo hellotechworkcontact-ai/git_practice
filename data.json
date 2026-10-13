@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "name": "Let us C",
+      "author": "Akanksha",
+      "price": 899
+   },
+   {
+      "id": 2,
+      "name": "Java Unleashed",
+      "author": "Atharv N",
+      "price": 799
+   },
+   {
+      "id": 3,
+      "name": "Mindless",
+      "author": "Khushi",
+      "price": 659
+   },
+   {
+      "id": 4,
+      "name": "Have a Smile",
+      "author": "Athasha",
+      "price": 788
+   }
+]
