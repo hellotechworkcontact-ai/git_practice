@@ -18,7 +18,7 @@ elif operator == "/":
     result = num1 / num2
 else:
     print("Invalid operator")
-    result = None
+    # result = 
 
 if result is not None:
     print("Result:", result)
